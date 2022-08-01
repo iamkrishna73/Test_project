@@ -18,5 +18,6 @@ public class AB {
         AB ob2 = new AB();
         System.out.println(ob2.a + ob2.b + ob2.c + d + e);
         System.out.println("Hello");
+        System.out.println("Hello2");
     }
 }
