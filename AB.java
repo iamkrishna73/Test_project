@@ -19,5 +19,7 @@ public class AB {
         System.out.println(ob2.a + ob2.b + ob2.c + d + e);
         System.out.println("Hello");
         System.out.println("Hello2");
+        System.out.println("Hello new project");
+        
     }
 }
